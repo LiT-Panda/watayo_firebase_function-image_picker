@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>644836063245-a5h9c894q9hdltv9s8k737or9b2c6s32.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.644836063245-a5h9c894q9hdltv9s8k737or9b2c6s32</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDUOACN3aF0AByrHP19GEvl45gq83fGR0I</string>
+	<key>GCM_SENDER_ID</key>
+	<string>644836063245</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.example.myapp</string>
+	<key>PROJECT_ID</key>
+	<string>hacku2021-dev</string>
+	<key>STORAGE_BUCKET</key>
+	<string>hacku2021-dev.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:644836063245:ios:a109854e13a5ea21af7d44</string>
+</dict>
+</plist>
